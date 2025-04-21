@@ -1,10 +1,12 @@
 # 🦀 Rust Journey
 
-<div style="width: 100%; height: 650px; overflow: hidden; position: relative;">
+<div style="width: 100%; height: 550px; overflow: hidden; position: relative;">
   <img
     src="./assets//rust-journey-waifu..png"
     style="width: 100%; height: 100%; object-fit: cover; object-position: 50%; transform: scale(1);">
 </div>
+
+---
 
 Welcome to my personal Rust learning repository!
 
