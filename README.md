@@ -1,5 +1,7 @@
 # 🦀 Rust Journey
 
+![Rust Journey Waifu](./assets//rust-journey-waifu..png)
+
 Welcome to my personal Rust learning repository!
 
 This is a collection of notes, exercises, and projects created as I learn the Rust programming language — from basics to advanced topics, including real-world projects and system-level challenges.
