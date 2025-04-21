@@ -1,6 +1,13 @@
 # 🦀 Rust Journey
 
-![Rust Journey Waifu](./assets//rust-journey-waifu..png)
+<div style="width: 100%; text-align: center;">
+  <img
+    src="./assets//rust-journey-waifu.png"
+    alt="Rust Journey Waifu"
+    style="max-width: 70%; height: auto; display: inline-block;">
+</div>
+
+---
 
 Welcome to my personal Rust learning repository!
 
