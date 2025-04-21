@@ -4,7 +4,7 @@
   <img
     src="./assets//rust-journey-waifu.png"
     alt="Rust Journey Waifu"
-    style="max-width: 50%; height: auto; display: inline-block;">
+    width="40%">
 </div>
 
 ---
